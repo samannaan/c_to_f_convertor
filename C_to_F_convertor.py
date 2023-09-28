@@ -4,4 +4,4 @@ def convert(s):
     c = (f - 32) * 5/9
     return c
 
-print(convert(78))
+print(convert(89))
